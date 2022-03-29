@@ -1,7 +1,32 @@
 # world-forest-id
 Outline: World Forest ID
 
-# Course Lesson: Intro to Collections 
+- [Course Lesson: Intro to Collections](#course-lesson-intro-to-collections)
+  * [Why sample collections need to be part of the World Forest ID system.](#why-sample-collections-need-to-be-part-of-the-world-forest-id-system)
+  * [The Partners involved in World Forest ID.](#the-partners-involved-in-world-forest-id)
+    + [Quiz](#quiz)
+  * [How World Forest ID is working to halt deforestation](#how-world-forest-id-is-working-to-halt-deforestation)
+    + [Quiz](#quiz-1)
+- [Course for Collectors](#course-for-collectors)
+  * [Introduction](#introduction)
+    + [Quiz](#quiz-2)
+  * [Equipment and Tools](#equipment-and-tools)
+    + [Quiz](#quiz-3)
+  * [Sampling Kits](#sampling-kits)
+    + [Quiz](#quiz-4)
+  * [Mobile App](#mobile-app)
+    + [Quiz](#quiz-5)
+  * [Field collection](#field-collection)
+- [Course for Expedition Leaders](#course-for-expedition-leaders)
+- [Science Behind World Forest ID](#science-behind-world-forest-id)
+  * [Wood Anatomy](#wood-anatomy)
+    + [Quiz](#quiz-6)
+  * [Dart TOF mass Spectometry](#dart-tof-mass-spectometry)
+    + [Quiz](#quiz-7)
+  * [Stable Isotope Ratio Analysis (SIRA)](#stable-isotope-ratio-analysis)
+    + [Quiz](#quiz-8)
+
+# Course Lesson Intro to Collections 
 https://vimeo.com/632149937 
 
 At the end of this training, you will be able to:
@@ -143,7 +168,7 @@ What is DART TOFMS used for?
 - Determining the origin of wood
 - Both origin and species identification
 
-## Stable Isotope Ratio Analysis (SIRA) 
+## Stable Isotope Ratio Analysis
 https://vimeo.com/686070435
 
 ### Quiz 
