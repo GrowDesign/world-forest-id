@@ -17,7 +17,8 @@ http://learn.worldforestid.org/wp-content/uploads/2021/08/Lesson-1-Part-3-Number
 ## The Partners involved in World Forest ID. 
 http://learn.worldforestid.org/wp-content/uploads/2021/08/Lesson-1-Topic-2.mp4 
 
-### Which of the world forest ID partners analyze wood products?
+### Quiz
+Which of the world forest ID partners analyze wood products?
 - **royal botanic gardens, kew**
 - forest stewardship council
 - world resources institute
@@ -27,6 +28,7 @@ http://learn.worldforestid.org/wp-content/uploads/2021/08/Lesson-1-Topic-2.mp4
 ## How World Forest ID is working to halt deforestation
 http://learn.worldforestid.org/wp-content/uploads/2021/08/Lesson-1-topic-1-intorcution-to-WFID.mp4 
 
+### Quiz
 Have you downloaded the world forest app? 
 - **Yes** 
 - No
@@ -79,7 +81,7 @@ https://vimeo.com/686070596
 
 ### Quiz
 Have you downloaded the World Forest ID app?
-- ***Yes***
+- **Yes**
 - No
 
 You need an internet connection while collecting
@@ -93,17 +95,26 @@ You can use the World Forest Id app on a tablet?
 Do you have to sync your observations while in the field?
 - **True** 
 - False
+
+## Field collection
+http://learn.worldforestid.org/wp-content/uploads/2022/03/Lesson-2-Module-5-field-collection.mov
+
 # Course for Expedition Leaders
+TBA
 
 # Science Behind World Forest ID
+
 ## Wood Anatomy 
 https://vimeo.com/686070399
-## Which are wood anatomy methods used to identify the species found in a wood product:
+
+### Quiz
+Which are wood anatomy methods used to identify the species found in a wood product:
 - **Macroscopic identification**
 - **Microscopic identification**
 - **Machine vision**
 - Stable Isotope Ratio Analysis
-## The Xylotron is:
+
+The Xylotron is:
 - A newly discovered planet
 - **A tool that uses machine learning to identify wood species**
 - The newest model from Tesla
@@ -131,8 +142,8 @@ https://vimeo.com/686070435
 What is SIRA?
 - A country in the Middle East
 - A technique used to identify species
-- ***Stable Isotope Ratio Analysis***
-- ***A technique to determine origin***
+- **Stable Isotope Ratio Analysis**
+- **A technique to determine origin**
 
 The isotopes that are used for determining origin of timber are:
 - Hydrogen 
@@ -141,32 +152,5 @@ The isotopes that are used for determining origin of timber are:
 - Nitrogen 
 - Sulfur
 - **All of the above**
-
-### Quiz 
-Science Behind World Forest ID 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
