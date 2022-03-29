@@ -45,6 +45,14 @@ To ensure the credibility and chain of custody of the samples collected
 ## Introduction 
 https://vimeo.com/686070538 
 
+### Quiz
+What will be covered in this course?
+- The type of trees to collect from?
+- **The material needed to collect samples?**
+- How to ship samples?
+- **How to use the world Forest ID App?**
+
+
 ## Equipment and Tools 
 https://vimeo.com/686070561 
 
