@@ -3,62 +3,80 @@ Outline: World Forest ID
 
 # Course Lesson: Intro to Collections 
 https://vimeo.com/632149937 
+
 At the end of this training, you will be able to:
-•	Understand how World Forest ID is working to address deforestation
-•	Know more about the partners involved in World Forest ID
-•	Identify the reasons why sample collections should be managed under the World Forest ID sample management system
-•	Download the World Forest ID collection app
-•	Locate where samples have been collected
+*	Understand how World Forest ID is working to address deforestation
+*	Know more about the partners involved in World Forest ID
+*	Identify the reasons why sample collections should be managed under the World Forest ID sample management system
+*	Download the World Forest ID collection app
+*	Locate where samples have been collected
+
 ## Why sample collections need to be part of the World Forest ID system. 
 http://learn.worldforestid.org/wp-content/uploads/2021/08/Lesson-1-Part-3-Number-1.mp4 
+
 ## The Partners involved in World Forest ID. 
 http://learn.worldforestid.org/wp-content/uploads/2021/08/Lesson-1-Topic-2.mp4 
+
 ### Which of the world forest ID partners analyze wood products?
-- **royal botanic gardens, kew /Y**
+- **royal botanic gardens, kew**
 - forest stewardship council
 - world resources institute
-- **wood identification and screen center /Y**
-- **agroisolab /Y**
+- **wood identification and screen center**
+- **agroisolab**
 
 ## How World Forest ID is working to halt deforestation
 http://learn.worldforestid.org/wp-content/uploads/2021/08/Lesson-1-topic-1-intorcution-to-WFID.mp4 
-### Have you downloaded the world forest app? 
-- **Yes**/ 
-- No | Y
-## Which of the following are reasons that sample collections need to be part of the World Forest ID system?
+
+Have you downloaded the world forest app? 
+- **Yes** 
+- No
+
+Which of the following are reasons that sample collections need to be part of the World Forest ID system?
 To ensure the credibility and chain of custody of the samples collected
-- **To be able to best support collectors | Y** 
+- **To be able to best support collectors** 
 - To create work for the collector
 - To facilitate planning and management of the samples
 - To make sure that samples are accurately identified and the recorded location of the plant is accurate
 
 # Course for Collectors
+
 ## Introduction 
 https://vimeo.com/686070538 
+
 ## Equipment and Tools 
 https://vimeo.com/686070561 
-### Which one of these tools is not used in the World Forest ID sample protocol?
+
+### Quiz
+Which one of these tools is not used in the World Forest ID sample protocol?
 - **Electric Drill**
 - Suction Cups
 - **Increment Core Borer**
 - **Chain Saw**
 - **Pickering Punch**
+
 ## Sampling Kits 
 https://vimeo.com/686070582
-### You have to create your own sampling kit
+
+### Quiz
+You have to create your own sampling kit
 - True 
 - **False**
-### Sodium bicarbonate is already included in the sampling kit.
+
+Sodium bicarbonate is already included in the sampling kit.
 - True
 - **False** 
-### Unique ID code labels are optional.
+
+Unique ID code labels are optional.
 - True 
 - **False**
-### There is only one type of sampling kit.
+
+There is only one type of sampling kit.
 - True
 - **False**
+
 ## Mobile App 
 https://vimeo.com/686070596
+
 ### Quiz
 Have you downloaded the World Forest ID app?
 - ***Yes***
